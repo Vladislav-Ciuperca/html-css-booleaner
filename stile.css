@@ -4,7 +4,6 @@
     padding: 0;
     font-family: "Lora", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
 }
 
@@ -20,13 +19,21 @@ header img{
     margin-left: 1vw;
 }
 
-.titolo{
+.margin{
     margin: 0.5vw;
+}
+
+.titolo{
+    /* margin: 0.5vw; */
     width: 95vw;
 }
 
 .titolo h1{
     font-size: 400%;
+}
+
+.credits{
+    margin-bottom: 5vh;
 }
 
 .autor{
@@ -59,7 +66,20 @@ p span{
     width: 95vw;
 }
 
-caption{
-    font-weight: 400;
-    color: aqua;
+.caption{
+    font-weight: 600;
+    /* color: rgb(255, 0, 0); */
+}
+
+.loremp{
+    margin: 2vw 0 2vw 0;
+    font-size: 150%;
+    font-weight: 500;
+}
+
+ul{
+    margin: 2vw 0 2vw 0;
+    font-size: 150%;
+    font-weight: 500;
+    margin-left: 1vw;
 }
