@@ -41,7 +41,7 @@ header img{
     color: rgb(123, 123, 123);
 }
 
-p span{
+.autor>span{
     color: rgb(22, 185, 249);
 }
 
@@ -141,4 +141,8 @@ footer span{
     top: 10px;
     left: 15px;
 
+}
+
+.evidenzio{
+    background-color: rgba(238, 255, 0, 0.636);
 }
