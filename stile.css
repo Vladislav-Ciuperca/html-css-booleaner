@@ -129,3 +129,20 @@ ul{
     padding: 0em;
     background-color: aquamarine;
 }
+
+h2{
+    color: grey;
+}
+
+.img{
+    position: relative;
+    display: block;
+    margin-top: 1vh;
+}
+
+footer span{
+    color: red;
+    position: absolute;
+    top: 10px
+
+}
