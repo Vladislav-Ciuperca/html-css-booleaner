@@ -95,7 +95,6 @@ ul{
 
 
 .left{
-    border: 2px solid black;
     margin: auto;
     padding: 1em;
     display: inline-block;
@@ -103,7 +102,6 @@ ul{
 }
 
 .mid{
-    border: 2px solid black;
     margin: auto;
     padding: 1em;
     display: inline-block;
@@ -112,7 +110,6 @@ ul{
 
 
 .right{
-    border: 2px solid black;
     display: inline-block;
     width: 37%;
 }
